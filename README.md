@@ -2,7 +2,6 @@
 This is the code repository for [ASP.NET Core Full-Stack Development Projects [Video]](https://www.packtpub.com/web-development/aspnet-core-full-stack-development-projects-video?utm_source=github&utm_medium=repository&utm_campaign=9781788998215), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 ASP.NET Core Full-Stack Development Projects aims to demonstrate how existing JavaScript developers can build upon their existing skills to create modular, full-stack web applications. Starting out with introductory coverage on NPM (Node Package Manager), it’ll quickly dive into setting up a web server with ASP.NET, and some database work using SQLite.
-ASP.NET Core Full-Stack Development Projects aims to demonstrate how existing JavaScript developers can build upon their existing skills to create modular, full-stack web applications. Starting out with introductory coverage on NPM (Node Package Manager), it’ll quickly dive into setting up a web server with ASP.NET, and some database work using SQLite.
 We build Full Stack applications using ASP.NET, complimented with a simple front-end built in the three most popular Front End Frameworks (Angular, React, and Vue). By the end of this course you should be able to build Full Stack applications.  It’s great for anybody looking to skill up for production-ready development on Azure utilizing the Microsoft Ecosystem (ASP.NET Core).
 
 
